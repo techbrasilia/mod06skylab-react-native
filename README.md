@@ -2,6 +2,7 @@
 # essa branch é referente ao desafio do modulo 06 - React-Native
 
 # PARCIAL
+# material de ajuda: https://medium.com/@pateldhara248/flatlist-with-loadmore-and-pull-to-refresh-582d48eca60b
 
 Sobre o desafio
 Nesse desafio você adicionará novas funcionalidades na aplicação que desenvolvemos ao longo desse módulo.
