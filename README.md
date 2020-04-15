@@ -1,8 +1,21 @@
 # mod06skylab-react-native
 # essa branch é referente ao desafio do modulo 06 - React-Native
 
-# PARCIAL
+# FINALIZADA
 # material de ajuda: https://medium.com/@pateldhara248/flatlist-with-loadmore-and-pull-to-refresh-582d48eca60b
+
+# Ao usar o webview dependendo da versão do RN poderá ocorrer erro, então seguir os seguintes passos:
+# instalar:
+# yarn add react-native-webview
+# yarn add react-native-get-random-values
+# 
+# Executar:
+# react-native link react-native-webview
+# react-native link react-native-get-random-values
+#
+# no index dentro de src importar:
+# import 'react-native-get-random-values';
+
 
 Sobre o desafio
 Nesse desafio você adicionará novas funcionalidades na aplicação que desenvolvemos ao longo desse módulo.
